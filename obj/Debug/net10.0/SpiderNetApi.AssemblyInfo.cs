@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpiderNetApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78dc74a0975beb42e0bda2c7a1d0fa6e2eb077ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96f8893d3dcf5937c8b3be143a2af1abc5e6026f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpiderNetApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpiderNetApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
